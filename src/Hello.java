@@ -15,6 +15,7 @@ public class Hello {
         System.out.println("Hello Mor!");
         System.out.println(5);
         System.out.println("Hej Gustav");
+        // kommmentar
 
     }
 }
