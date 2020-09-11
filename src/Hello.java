@@ -1,4 +1,3 @@
-import org.w3c.dom.ls.LSOutput;
 
 /**
  * Developed by András Ács (acsandras@gmail.com)
