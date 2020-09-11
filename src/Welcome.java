@@ -10,16 +10,14 @@ public class Welcome {
 
 	}
 
+	// Her er et eksempel på en metode
 	public static void hej(String navn) {
-
 		System.out.println("Hej " + navn  + "!");
-
 	}
 
+	// Her er et eksempel på en anden metode
 	public static void goNat(String navn) {
-
 		System.out.println("God nat " + navn  + "!");
-
 	}
 
 }
