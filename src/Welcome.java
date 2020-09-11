@@ -3,7 +3,8 @@ public class Welcome {
 	public static void main(String[] args) {
 
 		// Display message Welcome to Java! on the console
-		System.out.println("Welcome to Java!");
+		System.out.print("Welcome to Java!");
+		System.out.print("Welcome to Java!");
 
 		hej("Mikkel");
 		goNat("Anders");
@@ -18,6 +19,7 @@ public class Welcome {
 	// Her er et eksempel på en anden metode
 	public static void goNat(String navn) {
 		System.out.println("God nat " + navn  + "!");
+		hej("DU");
 	}
 
 }
