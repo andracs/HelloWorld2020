@@ -1,3 +1,3 @@
-# README
+# HelloWorld2020
 
-Pissefed projekt med Deniz.
+Kodeeksempler fra første ugers undervisning.
