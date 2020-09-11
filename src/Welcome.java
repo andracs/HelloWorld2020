@@ -6,6 +6,7 @@ public class Welcome {
 		System.out.println("Welcome to Java!");
 
 		hej("Mikkel");
+		hej(navn: "Deniz");
 		goNat("Anders");
 
 	}
