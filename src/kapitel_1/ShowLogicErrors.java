@@ -1,3 +1,5 @@
+package kapitel_1;
+
 public class ShowLogicErrors {
   public static void main(String[] args) {
     System.out.println("Celsius 35 is Fahrenheit degree ");
