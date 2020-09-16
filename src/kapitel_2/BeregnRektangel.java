@@ -22,5 +22,5 @@ public class BeregnRektangel {
         // a=6 b=12
         System.out.println("Areaalet for a=6 b=12: " + beregnRektangel(6,12));
     }
-    
+
 }
